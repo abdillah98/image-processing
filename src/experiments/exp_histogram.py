@@ -24,5 +24,5 @@ def run():
     show_image("Citra Asli (Grayscale)", img)
     
     # 4. Analisis Data
-    # Menampilkan grafik distribusi intensitas piksel untuk melihat karakter kontras gambar
+    # Menampilkan grafik distribusi (histogram) intensitas piksel untuk melihat karakter kontras gambar
     show_histogram(img)
